@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # ============================================================================
 #  Scope — Full Reconnaissance & Vulnerability Assessment
-#  Dev    : KaguraV01d
-#  Github : https://github.com/FairuzRaihanArdion
+#  Dev    : noexperience
+#  Github : https://github.com/fairuzardion
 #  Note   : Only use on targets you have explicit WRITTEN permission to test.
 # ============================================================================
 # set -e disabled: grep returning no match (exit 1) would kill script
